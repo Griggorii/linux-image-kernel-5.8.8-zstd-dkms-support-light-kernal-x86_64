@@ -5,4 +5,4 @@ Deb download: https://yadi.sk/d/zWMe0_UVQV9WsA
 
 sudo dpkg -i *.deb
 
-Wailt 1% 2% 3% ...%100 double reboot run monitor image
+Wailt black screen 1% 2% 3% ...%100 double reboot run monitor image normal
