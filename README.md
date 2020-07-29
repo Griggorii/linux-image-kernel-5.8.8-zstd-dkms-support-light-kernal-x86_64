@@ -12,6 +12,6 @@ Selinux ? Wailt black screen 1% 2% 3% ...%100 double reboot run monitor image no
 После установки и первой загрузки с этого ядра возможно побегут цифры на черном экране предзагрузки надо будет 
 подождать до 100% после компьютер будет перезагружен и появиться рабочий стол как обычно
 
-Linux apt purge all linux headers ! Not remove headers kernel not perfomance ? My kernel safe modification not torwalds seo send statistic crash. А , теперь по русски этот кернел опередил время и торвальдса самозванца , да и хрен с ними с этими шнапами , драиверами со специфичными и всякими виртуальными машинами , но если будут инвестиции у меня сорцы этого быстрого ядра , при дампе олд конфига в торвальдскую структуру работать он не будет.
+Linux apt purge all linux headers ! Not remove headers kernel not perfomance ? My kernel safe modification not torwalds seo send statistic crash. А , теперь по русски этот кернел опередил время и торвальдса самозванца , да и хрен с ними с этими шнапами , драиверами со специфичными и всякими виртуальными машинами , но если будут инвестиции у меня сорцы этого быстрого ядра , при дампе олд конфига в торвальдскую структуру работать он не будет , но я подключил основную перефирию только принтер не проверен , всякие lte , 3g , 4g будут работать , так же задействована ubifs 
 
 Mesa graphics https://github.com/Griggorii/mesa-20.1.2_V15-libdrm_ubuntu-19.04-20.04-20.10_X86_64_full_stack_graphics
