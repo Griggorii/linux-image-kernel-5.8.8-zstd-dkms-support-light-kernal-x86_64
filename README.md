@@ -12,6 +12,6 @@ Selinux ? Wailt black screen 1% 2% 3% ...%100 double reboot run monitor image no
 После установки и первой загрузки с этого ядра возможно побегут цифры на черном экране предзагрузки надо будет 
 подождать до 100% после компьютер будет перезагружен и появиться рабочий стол как обычно
 
-Linux apt purge all linux headers ! Not remove headers kernel not perfomance ? my kernel modification not torwalds seo send statistic crash
+Linux apt purge all linux headers ! Not remove headers kernel not perfomance ? My kernel safe modification not torwalds seo send statistic crash
 
 Mesa graphics https://github.com/Griggorii/mesa-20.1.2_V15-libdrm_ubuntu-19.04-20.04-20.10_X86_64_full_stack_graphics
