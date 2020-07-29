@@ -3,6 +3,8 @@ linux-image-kernel-5.8.8-zstd amd64 deb package dkms support perfomance kernel s
 
 Deb download image-kernel: https://yadi.sk/d/zWMe0_UVQV9WsA
 
+sudo rm -rf /var/cache/apparmor/* /var/cache/fontconfig/*
+
 sudo dpkg -i *.deb
 
 Selinux ? Wailt black screen 1% 2% 3% ...%100 double reboot run monitor image normal
