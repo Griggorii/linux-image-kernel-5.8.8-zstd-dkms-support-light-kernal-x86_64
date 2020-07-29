@@ -3,7 +3,7 @@ linux-image-kernel-5.8.8-zstd amd64 deb package dkms support perfomance kernel s
 
 Deb download image-kernel: https://yadi.sk/d/mu-NvRKrzDjpPw
 
-sudo rm -rf /var/cache/apparmor/* /var/cache/fontconfig/*
+sudo rm -rf /var/cache/apparmor/* /var/cache/fontconfig/* /var/log/*
 
 sudo dpkg -i *.deb
 
